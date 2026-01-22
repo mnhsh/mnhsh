@@ -7,5 +7,4 @@ I’m a backend-focused developer who enjoys building reliable systems and under
 - 🤖 Exploring AI tools and practical applications
 - 🌱 Learning by building projects and improving them over time
 
-I value clean code, simple solutions, and steady progress.
 
